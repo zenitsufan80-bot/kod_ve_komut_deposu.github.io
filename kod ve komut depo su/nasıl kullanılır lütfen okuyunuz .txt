@@ -1,0 +1,9 @@
+ilk öncelikle kodu alýn ve kendi bilgisayarýnýzdaki python da çalýþtýrýn
+çalýþtýrdýðýnýz da bir ekran karþýnýza çýkacak oraya yeni ekle yapýyorsu-
+nuz ve baþlýðýný koyuyorsunuz sonra kodu yazýyosunuz kodu yazdýktan sonra
+deðiþkenlikleri kayýt et diyorsunuz ve kayýt oluyor sadece kod deðil is-
+tediðiniz þeyi kayýt ede bilirsiniz kod olmasý zorunlu deðil
+
+isterseniz benim eklediðim python ve kodu kayýt ettiði yeri kullanabilir-
+siniz python eski sürümdür bilginiz olsun.
+
